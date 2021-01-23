@@ -1,1 +1,1 @@
-# processing-audio-visualizer-framework
+# Processing Audio Visualizer Framework
