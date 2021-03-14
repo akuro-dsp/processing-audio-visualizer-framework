@@ -1,2 +1,2 @@
 # Processing Audio Visualizer Framework
-Needs Processing libraries Minim and Soun.
+Needs Processing libraries Minim and Sound.
